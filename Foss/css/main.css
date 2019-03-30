@@ -29,6 +29,7 @@
 body, html {
 	height: 100%;
 	font-family: Oswald-Regular, sans-serif;
+   background: #e6e6e6;
 }
 
 /*---------------------------------------------*/
@@ -161,7 +162,7 @@ iframe {
 }
 
 .wrap-contact100 {
-  width: 550px;
+  width: 555px;
   background: transparent;
   padding: 30px 0 80px 0;
 }
